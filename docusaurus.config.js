@@ -71,7 +71,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Planning a Custom Software Project",
+            label: "Docs",
           },
         ],
       },

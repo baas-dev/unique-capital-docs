@@ -1,0 +1,11 @@
+{
+  "position": 2,
+  "label": "Planning Activity",
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Planning Activity"
+  }
+}
